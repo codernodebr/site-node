@@ -8,7 +8,7 @@ app.use(express.static('public'));
 app.use(express.static('src/views'));
 
 app.get('/', function(req, res){
-  res.send('src/views/index.html');
+  res.send('src/views/');
 });
 
 app.get('/livros', function(req, res){
