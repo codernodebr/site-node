@@ -11,8 +11,8 @@ app.get('/', function(req, res){
   res.send('src/views/');
 });
 
-app.get('/livros', function(req, res){
-  res.send('Olá Livros!');
+app.get('/get', function(req, res){
+  res.send('Teste');
 });
 
 app.listen(5000, function(err){
