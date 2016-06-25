@@ -1,5 +1,4 @@
 # Node Code
-<hr>
 
 ## Para visualizar o projeto 
 
